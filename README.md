@@ -1,2 +1,3 @@
 # IA-Phishing-Detection
-A piece of what i had to do as an end of study project
+
+This code was part of a bigger project in order to create an AI-Powered EDR (XDR) from almost scratch.
